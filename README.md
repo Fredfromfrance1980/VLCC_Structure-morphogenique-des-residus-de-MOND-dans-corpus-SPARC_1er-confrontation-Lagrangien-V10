@@ -1,0 +1,2 @@
+# VLCC_Structure-morphogenique-des-residus-de-MOND-dans-corpus-SPARC_1er-confrontation-Lagrangien-V10
+Premier test observationnel du Lagrangien VLCC V10 (Variable Lagrangian of Cosmic Chronotropy) sur 175 galaxies SPARC. Le candidat H2 améliore MOND de 27,6 % (ΔBIC = −189) via le couplage de la fréquence orbitale ν_bar au champ tri-phasé T = (τ, σ, Δt). Trois résultats empiriques indépendants. Pipeline Python complet + CSV.
